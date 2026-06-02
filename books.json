@@ -1,0 +1,25 @@
+{
+  "iraq": {
+    "grades": [
+      {
+        "id": "first_intermediate",
+        "name_ar": "الأول متوسط",
+        "name_en": "First Intermediate",
+        "subjects": [
+          {
+            "id": "social_studies",
+            "name_ar": "الاجتماعيات",
+            "name_en": "Social Studies",
+            "books": [
+              {
+                "title_ar": "كتاب الاجتماعيات",
+                "title_en": "Social Studies Book",
+                "url": "https://drive.google.com/uc?export=download&id=1g-bud5FCzQo2F7ZY2UfJauwQ4tbzBb1B"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
